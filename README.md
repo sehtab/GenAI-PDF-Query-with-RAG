@@ -4,7 +4,7 @@ PDf query with RAG
 
 # Description
 
-This project is about making queries in PDF with the help of LLM. 
+This project is about making queries in PDF with the help of LLM and RAG. 
 
 ## Library Used
 1. langchain
